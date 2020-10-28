@@ -1,0 +1,39 @@
+总结最近遇到的问题
+python:
+1.可变对象与不可变对象
+2.深拷贝和浅拷贝
+3.装饰器
+4.类的三种方法:实例化方法，classmethod,staticmethod
+5.flask: blueprint,钩子函数
+6.scrapy架构
+7.python垃圾回收
+
+
+js:
+js原型链
+
+java:
+java,pyhton,js面向对象的对比
+
+mq:
+kafka,rabbitmq,rocketmq的对比
+mq消息架构
+
+nosql:
+redis架构，mongo架构
+
+sql:
+mysql的索引类型
+mysql为什么用B+Tree
+
+网络:
+http四次挥手为什么有一段等待时间
+
+算法:
+1.json:  简化:{'1':None,2:[],3:{4:[5,{6:''}]}} =>  {3:{4:[5]}}
+2.json   驼峰式转化蛇皮式:{'HelloWord':{'FuckAlgorithom':[1,2,3,{'HiYou':1}]}} => {'hello_word':{'fuck_algorithom':[1,2,3,{'hi_you':1}]}}
+3.全排列
+4.股票买卖
+5.二叉树所有路径和=target
+6.排序数组去重
+
