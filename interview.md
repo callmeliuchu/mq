@@ -7,28 +7,22 @@ python:
 5.flask: blueprint,钩子函数
 6.scrapy架构
 7.python垃圾回收
-
-
+go语言:
+go,channel
 js:
 js原型链
-
 java:
 java,pyhton,js面向对象的对比
-
 mq:
 kafka,rabbitmq,rocketmq的对比
 mq消息架构
-
 nosql:
 redis架构，mongo架构
-
 sql:
 mysql的索引类型
 mysql为什么用B+Tree
-
 网络:
 http四次挥手为什么有一段等待时间
-
 算法:
 1.json:  简化:{'1':None,2:[],3:{4:[5,{6:''}]}} =>  {3:{4:[5]}}
 2.json   驼峰式转化蛇皮式:{'HelloWord':{'FuckAlgorithom':[1,2,3,{'HiYou':1}]}} => {'hello_word':{'fuck_algorithom':[1,2,3,{'hi_you':1}]}}
@@ -37,3 +31,8 @@ http四次挥手为什么有一段等待时间
 5.二叉树所有路径和=target
 6.排序数组去重
 
+
+编程:
+异步编程的练习:
+1.练习python异步编程
+2.联系nodejs异步编程
