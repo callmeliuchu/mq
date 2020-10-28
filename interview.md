@@ -23,16 +23,18 @@ mysql的索引类型
 mysql为什么用B+Tree
 网络:
 http四次挥手为什么有一段等待时间
+操作系统:
+命令行
+进程线程协程
 算法:
 1.json:  简化:{'1':None,2:[],3:{4:[5,{6:''}]}} =>  {3:{4:[5]}}
-2.json   驼峰式转化蛇皮式:{'HelloWord':{'FuckAlgorithom':[1,2,3,{'HiYou':1}]}} => {'hello_word':{'fuck_algorithom':[1,2,3,{'hi_you':1}]}}
+2.json   驼峰式转化蛇皮式:{'HelloWord':{'FuckAlgorithom':[1,2,3,{'HiYou':1}]}} => 
+                       {'hello_word':{'fuck_algorithom':[1,2,3,{'hi_you':1}]}}
 3.全排列
 4.股票买卖
 5.二叉树所有路径和=target
 6.排序数组去重
-
-
 编程:
 异步编程的练习:
 1.练习python异步编程
-2.联系nodejs异步编程
+2.nodejs异步编程
